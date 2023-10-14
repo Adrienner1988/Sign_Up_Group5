@@ -17,7 +17,7 @@ Eddie
 
 
 Jesse
-
+I was placed in charge of the Sign Up button and text beneath it.
 
 
 Kevin
