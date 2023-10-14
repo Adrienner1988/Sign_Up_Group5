@@ -15,14 +15,15 @@
       "social-bar imgae imgae";
   }
   
+  
   .imgae { 
     grid-area: imgae;
     
 }
   
-  .social-bar { grid-area: social-bar; }
   
-  .sign-up-button { grid-area: sign-up-button; }
   
-  .info-bar { grid-area: info-bar; }
+  
+  
+  
   
