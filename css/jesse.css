@@ -1,3 +1,18 @@
 .sign-up-button { 
     grid-area: sign-up-button;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+ }
+
+ button{
+
+    border-radius: 16px 14px 10px 20px;
+    height: 5vh;
+    width: 50%;
+    background-color: rgb(50, 115, 255);
+    color: white;
+    
  }
