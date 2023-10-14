@@ -15,7 +15,7 @@
         "info-bar image image"
         "sign-up-button image image"
         "social-bar image image";
-     border: 5px solid green; 
+     /* border: 5px solid green;  */
 }
 
 
@@ -25,12 +25,12 @@
 }
 
 #img {
-    border: 5px solid yellow;
+    /* border: 5px solid yellow; */
     width: 198%;
     margin-top: 100px;
 }
 
-.info-bar {
+/* .info-bar {
     border: 5px solid gray;
 }
 
@@ -40,4 +40,4 @@
 
 .social-bar {
     border: 5px solid pink;
-} */
+}  */
