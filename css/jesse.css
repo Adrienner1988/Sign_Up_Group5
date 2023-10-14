@@ -5,6 +5,7 @@
     flex-direction: column;
     justify-content: center;
     text-align: center;
+    align-items: center;
  }
 
  button{
@@ -14,5 +15,7 @@
     width: 50%;
     background-color: rgb(50, 115, 255);
     color: white;
+    font-size: 23px;
+    font-weight: 500;
     
  }
