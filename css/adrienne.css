@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: 'Gabarito', sans-serif;
 }
 
 .container {
@@ -15,9 +16,25 @@
         "info-bar image image"
         "sign-up-button image image"
         "social-bar image image";
-     border: 5px solid green; 
+    /* border: 5px solid green;  */
 }
 
+.top {
+    text-align: center;
+    font-weight: 900px;
+    font-size: xx-large;
+}
+
+/* .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 10px;
+    height: 10px;
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 50%;
+} */
 
 .image {
     grid-area: image;
@@ -25,7 +42,7 @@
 }
 
 #img {
-    border: 5px solid yellow;
+    /* border: 5px solid yellow; */
     width: 198%;
     margin-top: 100px;
 }
@@ -40,4 +57,4 @@
 
 .social-bar {
     border: 5px solid pink;
-} 
+} */
