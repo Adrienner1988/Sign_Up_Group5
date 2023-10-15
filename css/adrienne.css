@@ -16,25 +16,13 @@
         "info-bar image image"
         "sign-up-button image image"
         "social-bar image image";
-    /* border: 5px solid green;  */
 }
 
-.top {
+h1 {
     text-align: center;
     font-weight: 900px;
-    font-size: xx-large;
+    font-size: 50px ;
 }
-
-/* .fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 10px;
-    height: 10px;
-    text-align: center;
-    text-decoration: none;
-    border: 1px solid black;
-    border-radius: 50%;
-} */
 
 .image {
     grid-area: image;
@@ -42,19 +30,24 @@
 }
 
 #img {
-    /* border: 5px solid yellow; */
     width: 198%;
-    margin-top: 100px;
+    height: 100%;   
 }
 
-.info-bar {
-    border: 5px solid gray;
+
+
+@media (max-width: 768px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+  } 
 }
 
-.sign-up-button {
-    border: 5px solid brown;
+@media (max-width: 768px) {
+    .sign-up-button {
+        display: flex;
+        flex-direction: column;
+        margin-top: 30px;
+  } 
 }
 
-.social-bar {
-    border: 5px solid pink;
-} */
