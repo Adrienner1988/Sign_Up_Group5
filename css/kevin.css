@@ -2,31 +2,30 @@
     grid-area: social-bar;
     display: flex;
     justify-content: space-evenly;
-    padding-top: 200px;
+    padding-top: 50px;
  }
 
 .facebook {
-    height: 500px;
-    width: 500px;
-    margin-right: 65px;
+    height: 50px;
+    width: 50px;
+    margin-right: 60px;
 }
 
 .google {
-    height: 400px;
-    width: 400px;
-    margin-bottom: 45px;
+    height: 45px;
+    width: 45px;
     filter: brightness(1%);
-    margin-right: 80px;
+    margin-right: 60px;
     
 }
 
 .linkedin {
-    height: 500px;
-    width: 500px;
+    height: 50px;
+    width: 50px;
     margin-right: 60px;
 }
 
 .twitter {
-    height: 500px;
-    width: 500px;
+    height: 50px;
+    width: 50px;
 }
