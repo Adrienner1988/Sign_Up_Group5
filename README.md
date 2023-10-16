@@ -23,3 +23,4 @@ I was placed in charge of the Sign Up button and text beneath it.
 
 
 Kevin
+I was in charge of writing up the social icons. Downloaded images/png's and moved it into the CSS folder in VS Code. 
